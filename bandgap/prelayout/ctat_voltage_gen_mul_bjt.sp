@@ -1,6 +1,6 @@
 **** ctat voltage generation circuit with multiple bjt *****
 
-.lib "/opt/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice tt"
+.lib "/home/ruthwika/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice" tt
 
 .global vdd gnd
 .temp 27
