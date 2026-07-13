@@ -1,0 +1,40 @@
+* SPICE3 file created from resbank.ext - technology: sky130A
+
+.option scale=10m
+
+X0 li_542_996# li_273_0# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X1 li_542_996# a_814_10# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X2 a_2156_996# rp1 gnd sky130_fd_pr__res_high_po_1p41 l=780
+X3 a_814_10# li_1349_0# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X4 li_1618_996# li_1349_0# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X5 li_1618_996# li_1348_n117# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X6 a_2156_996# a_1083_n574# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X7 li_1618_n584# li_542_n1697# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X8 li_2425_996# li_1348_n117# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X9 li_2425_n584# li_542_n1697# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X10 a_1083_n574# qp2 gnd sky130_fd_pr__res_high_po_1p41 l=780
+X11 li_2425_996# li_2694_0# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X12 li_2552_1229# li_2694_0# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X13 li_2425_n584# li_2835_n1580# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X14 gnd gnd gnd sky130_fd_pr__res_high_po_1p41 l=780
+X15 gnd gnd gnd sky130_fd_pr__res_high_po_1p41 l=780
+X16 li_2552_1229# li_2835_n1580# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X17 li_273_n584# qp3 gnd sky130_fd_pr__res_high_po_1p41 l=780
+X18 gnd gnd gnd sky130_fd_pr__res_high_po_1p41 l=780
+X19 li_273_n584# qp3 gnd sky130_fd_pr__res_high_po_1p41 l=780
+X20 li_4_n351# qp3 gnd sky130_fd_pr__res_high_po_1p41 l=780
+X21 a_1083_n574# qp2 gnd sky130_fd_pr__res_high_po_1p41 l=780
+X22 li_4_n351# li_1349_n1580# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X23 li_1618_n584# li_1349_n1580# gnd sky130_fd_pr__res_high_po_1p41 l=780
+X24 gnd gnd gnd sky130_fd_pr__res_high_po_1p41 l=780
+X25 vref li_273_0# gnd sky130_fd_pr__res_high_po_1p41 l=780
+C0 li_1348_n117# a_1083_n574# 2.25936f
+C1 qp2 li_542_n1697# 3.3447f
+C2 li_4_n351# a_1083_n574# 2.99804f
+C3 qp2 gnd 5.30414f
+C4 a_1083_n574# gnd 3.19744f **FLOATING
+C5 li_4_n351# gnd 2.36175f **FLOATING
+C6 li_2552_1229# gnd 3.95375f **FLOATING
+C7 li_542_n1697# gnd 2.51238f **FLOATING
+C8 li_1348_n117# gnd 2.06202f **FLOATING
+C9 a_2156_996# gnd 5.37799f **FLOATING

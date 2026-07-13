@@ -1,0 +1,5 @@
+* SPICE3 file created from pnpt1.ext - technology: sky130A
+
+.option scale=5m
+
+X0 Collector Base Emitter sky130_fd_pr__pnp_05v5_W3p40L3p40

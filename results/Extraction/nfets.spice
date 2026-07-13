@@ -1,0 +1,44 @@
+* SPICE3 file created from nfets.ext - technology: sky130A
+
+.option scale=10m
+
+X0 rp1 gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=15n pd=1.06m as=15n ps=1.06m w=500 l=100
+X1 gnd gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0.18u pd=0.01272 as=0 ps=0 w=500 l=100
+X2 gnd gnd qp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0.105u ps=7.421m w=500 l=100
+X3 gnd gnd rp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0.105u ps=7.421m w=500 l=100
+X4 qp1 gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X5 rp1 gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X6 net2 net1 rp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=60.001n pd=4.241m as=0 ps=0 w=500 l=100
+X7 net1 net1 qp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=60.001n pd=4.241m as=0 ps=0 w=500 l=100
+X8 rp1 net1 net2 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X9 qp1 net1 net1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X10 gnd gnd qp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X11 net1 net1 qp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X12 gnd gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X13 qp1 net1 net1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X14 gnd gnd rp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X15 gnd gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X16 gnd gnd rp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X17 qp1 gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X18 qp1 gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X19 gnd gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X20 net1 net1 qp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X21 qp1 net1 net1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X22 net1 net1 qp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X23 qp1 net1 net1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X24 gnd gnd qp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X25 rp1 gnd gnd gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X26 net2 net1 rp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X27 rp1 net1 net2 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X28 net2 net1 rp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X29 rp1 net1 net2 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X30 net2 net1 rp1 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+X31 rp1 net1 net2 gnd sky130_fd_pr__nfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=100
+C0 net2 net1 3.20085f
+C1 net2 rp1 4.51219f
+C2 qp1 net1 8.11064f
+C3 net1 rp1 3.9404f
+C4 net2 gnd 2.95596f
+C5 net1 gnd 15.91196f
+C6 qp1 gnd 6.43356f
+C7 rp1 gnd 6.66958f

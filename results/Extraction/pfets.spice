@@ -1,0 +1,29 @@
+* SPICE3 file created from pfets.ext - technology: sky130A
+
+.option scale=10m
+
+X0 pfet_1/a_n30_0# net2 net6 vdd sky130_fd_pr__pfet_01v8_lvt ad=15n pd=1.06m as=15n ps=1.06m w=500 l=200
+X1 vdd net2 pfet_1/a_n30_0# vdd sky130_fd_pr__pfet_01v8_lvt ad=0.12u pd=8.481m as=15.001n ps=1.061m w=500 l=200
+X2 vref net2 vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=30.001n pd=2.121m as=0 ps=0 w=500 l=200
+X3 vdd net2 vref vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X4 net1 net2 vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=60.001n pd=4.241m as=0 ps=0 w=500 l=200
+X5 vdd net2 net1 vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X6 net2 net2 vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=30.001n pd=2.121m as=0 ps=0 w=500 l=200
+X7 vdd net2 net2 vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X8 net1 net2 vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X9 net2 net2 vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X10 vdd net2 net1 vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X11 vdd net2 net2 vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X12 vref net2 vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X13 vdd net2 vref vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X14 net1 vdd vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X15 vdd net6 net1 vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+X16 net1 net6 vdd vdd sky130_fd_pr__pfet_01v8_lvt ad=0 pd=0 as=0 ps=0 w=500 l=200
+C0 vdd net6 9.14503f
+C1 vdd net1 9.06037f
+C2 vref net2 2.75906f
+C3 vref vdd 3.90704f
+C4 vdd net2 13.92447f
+C5 vref net1 3.76023f
+C6 net6 net2 3.46431f
+C7 vdd SUB 61.40314f
