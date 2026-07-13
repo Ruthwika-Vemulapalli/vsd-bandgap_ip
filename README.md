@@ -6,7 +6,6 @@
 This Codespace provides a ready-to-use **Analog Design and Simulation** setup on **Ubuntu 22.04**, featuring **Magic**, **Ngspice**, and **Netgen** with both **terminal** and **GUI (noVNC)** access.
 
 ---
-
 ### Step 1 – Open the Codespace
 
 1. Go to the GitHub repository:
