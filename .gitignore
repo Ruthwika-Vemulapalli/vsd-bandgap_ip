@@ -1,1 +1,5 @@
 *.ext
+
+# Generated extraction netlists
+bandgap/layout/*.spice
+bandgap/layout/*.ext
