@@ -1,0 +1,391 @@
+******
+** ngspice-42 : Circuit level simulation program
+** Compiled with KLU Direct Linear Solver
+** The U. C. Berkeley CAD Group
+** Copyright 1985-1994, Regents of the University of California.
+** Copyright 2001-2023, The ngspice team.
+** Please get your ngspice manual from https://ngspice.sourceforge.io/docs.html
+** Please file your bug-reports at http://ngspice.sourceforge.net/bugrep.html
+** Creation Date: Sun Mar 31 20:15:14 UTC 2024
+******
+
+Note: No compatibility mode selected!
+
+
+Circuit: *=========================================================
+
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -40
+Doing analysis at TEMP = -40.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.103279e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -35
+Doing analysis at TEMP = -35.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.104398e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -30
+Doing analysis at TEMP = -30.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.105202e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -25
+Doing analysis at TEMP = -25.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.105737e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -20
+Doing analysis at TEMP = -20.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.106567e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -15
+Doing analysis at TEMP = -15.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.107598e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -10
+Doing analysis at TEMP = -10.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.108299e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  -5
+Doing analysis at TEMP = -5.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.108956e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  0
+Doing analysis at TEMP = 0.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.109591e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  5
+Doing analysis at TEMP = 5.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.110177e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  10
+Doing analysis at TEMP = 10.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.110721e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  15
+Doing analysis at TEMP = 15.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.111580e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  20
+Doing analysis at TEMP = 20.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.111898e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  25
+Doing analysis at TEMP = 25.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.112445e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  30
+Doing analysis at TEMP = 30.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.112933e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  35
+Doing analysis at TEMP = 35.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.113243e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  40
+Doing analysis at TEMP = 40.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.113603e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  45
+Doing analysis at TEMP = 45.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.113990e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  50
+Doing analysis at TEMP = 50.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.114397e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  55
+Doing analysis at TEMP = 55.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.114804e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  60
+Doing analysis at TEMP = 60.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.115211e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  65
+Doing analysis at TEMP = 65.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.115584e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  70
+Doing analysis at TEMP = 70.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.115926e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  75
+Doing analysis at TEMP = 75.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.116240e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  80
+Doing analysis at TEMP = 80.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.116532e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  85
+Doing analysis at TEMP = 85.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.116849e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  90
+Doing analysis at TEMP = 90.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.117176e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  95
+Doing analysis at TEMP = 95.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.117620e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  100
+Doing analysis at TEMP = 100.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.118043e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  105
+Doing analysis at TEMP = 105.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.118489e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  110
+Doing analysis at TEMP = 110.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.118967e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  115
+Doing analysis at TEMP = 115.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.119528e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  120
+Doing analysis at TEMP = 120.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.120107e+00
+Reset re-loads circuit *=========================================================
+
+Circuit: *=========================================================
+
+====================
+Requested Temp =  125
+Doing analysis at TEMP = 125.000000 and TNOM = 27.000000
+
+ Reference value :  0.00000e+00
+No. of Data Rows : 1
+v(vref) = 1.120752e+00
+ngspice-42 done
