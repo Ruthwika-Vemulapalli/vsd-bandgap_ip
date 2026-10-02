@@ -597,7 +597,8 @@ Designed by [Ruthwika Vemulapalli](https://www.linkedin.com/in/ruthwika-vemulapa
 
 **Bandgap IP Design using SKY130 Technology Node**
 
-- [Ruthwika Vemulapalli – Bandgap IP Design Certificate](Certificates/Ruthwika%20Vemulapalli-certificate.pdf)
+<img width="1181" height="837" alt="image" src="https://github.com/user-attachments/assets/7dbe3d67-9cd6-4686-980e-568d02aeb707" />
+
 
 
 [Magic]:                http://opencircuitdesign.com/magic/
