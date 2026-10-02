@@ -578,7 +578,7 @@ We have created the layout by putting all the PNPs together, with appropriate ma
 </p>
 
 #### 4.3.5 Design of STARTERNFET
-We placed the the two w=1, l=7 NFETs together with a guardring to desingn the STATRTERNFET. [mag file](/layout/starternfet.mag)
+We placed the the two w=1, l=7 NFETs together with a guardring to designing the STATRTERNFET. [mag file](/layout/starternfet.mag)
 <p align="center">
   <img src="Images/layout/starternfet.png">
 </p>
@@ -589,13 +589,15 @@ To obtain the top level design, we have placed all the blocks together, routed i
   <img src="Images/layout/top.png">
 </p>
 
-
-
 ## Author
 
 Designed by [Ruthwika Vemulapalli](https://www.linkedin.com/in/ruthwika-vemulapalli-97870a26b/). 
 
+## Certificate
 
+**Bandgap IP Design using SKY130 Technology Node**
+
+[View Certificate](Certificates/Ruthwika%20Vemulapalli-certificate.pdf)
 
 
 [Magic]:                http://opencircuitdesign.com/magic/
